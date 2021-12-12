@@ -11,7 +11,7 @@ Note:
 The following samples are intended for use in local development environments such as project setups, tinkering with software stacks, etc. These samples must not be deployed in production environments.
 
 Contents
-Samples of Docker Compose applications with multiple integrated services.
+Samples of Docker Compose  applications with multiple integrated services.
 Single service samples.
 Basic setups for different platforms (not production ready - useful for personal use).
 Samples of Docker Compose applications with multiple integrated services
